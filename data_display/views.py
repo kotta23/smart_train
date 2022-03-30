@@ -15,6 +15,7 @@ def main_home (request):
     print(request.GET)
 
 
+    #ptiwjriwqspadksal
 
     firstname_data = request.GET.get("name")
     lastname_data = request.GET.get("lastname")
